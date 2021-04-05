@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://images.pexels.com/photos/827209/pexels-photo-827209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-position: center;
+    background-size: cover;
+    border: 10px solid lightpink;
+    border-radius: 15px;
+    height: 800px;;
+}
+marquee {
+    font-size:70px;
+    font-family: 'Zilla Slab Highlight', cursive;
+}
+button {
+    font-size: 28px !important;
+    font-family: 'Londrina Solid', cursive;
+    margin-left: 40%;
+    height:60px;
+}
